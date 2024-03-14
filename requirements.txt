@@ -1,0 +1,4 @@
+scrapy
+scrapy_user_agents
+psycopg2
+black
